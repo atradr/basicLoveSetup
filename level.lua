@@ -27,5 +27,3 @@ function draw(dt)
   love.graphics.rectangle('fill', 0, 0, 64, 64)
   camera:attach()
 end
-
-return _G[fileName]
