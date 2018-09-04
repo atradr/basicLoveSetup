@@ -1,0 +1,9 @@
+Entity class contains the new function where an object's __index
+is set to itself.
+Each class contains an Init() function which initializes variables and returns itself.
+
+make a new Object by calling ObjectName:new():Init()
+
+
+Main class has a currentLevel varible. It contains a switch level function, and it calls the draw, update, and load functions of each level to run the game.
+
